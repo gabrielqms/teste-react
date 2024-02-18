@@ -1,11 +1,11 @@
 .titulo{
-    color: green;
+    color: blue;
     text-align: center;
 }
 
 .img{
-    width: 400px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
     display: block;
     margin: 0 auto;
 }
